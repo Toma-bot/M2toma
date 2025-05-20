@@ -1,0 +1,19 @@
+# Nettoyage de texte
+unicodedata2    # version installable de unicodedata
+regex        # alternative avancée à re
+
+# Scraping web
+requests
+pyquery
+
+# Géocodage
+geopy            # utilise Nominatim API
+
+# Visualisation et dashboard
+streamlit
+streamlit_folium
+folium
+matplotlib
+
+# Data manipulation
+pandas
